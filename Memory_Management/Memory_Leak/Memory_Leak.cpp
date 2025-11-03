@@ -2,13 +2,16 @@
 // MEMORY LEAKS
 //-----------------------------------
 
-// Un memory leak ocurre cuando se reserva memoria en el heap y nunca se libera.
-// El puntero que la referenciaba se pierde, y el sistema operativo no puede recuperarla hasta que el programa termine.
+//  Un memory leak ocurre cuando se reserva memoria en el heap y nunca se libera.
+//  El puntero que la referenciaba se pierde, y el sistema operativo no puede recuperarla hasta que el programa termine.
 
-// Este programa de pruebas fuga aproximadamente 2 GB de memoria.
+//-----------------------------------
+//  Ejemplo de Memory Leak
+//-----------------------------------
 
-// * Nota: Antes de ejecutar el programa abrir el administrador de tareas y observar el crecimiento desproporcionado
-//   Del consumo de memorial del programa.
+//  Este programa de pruebas fuga aproximadamente 2 GB de memoria.
+//  * Nota: Antes de ejecutar el programa abrir el administrador de tareas y observar el crecimiento desproporcionado
+//  Del consumo de memorial del programa.
 
 #include <iostream>
 
