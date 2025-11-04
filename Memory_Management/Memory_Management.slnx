@@ -4,6 +4,7 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="5 - Object_Pooling_Preallocation/5 - Object_Pooling_Preallocation.vcxproj" Id="9412f1dc-fff5-4271-8723-34bd89c856ca" />
+  <Project Path="6 - Smart_Pointers_Ownership/6 - Smart_Pointers_Ownership.vcxproj" Id="0ba326de-0992-48c5-90cc-22f00acbad0a" />
   <Project Path="Cache_Locality/Cache_Locality.vcxproj" Id="9abad108-edad-4730-b7dd-0b921c02e396" />
   <Project Path="Fragmentacion_Allocators/Fragmentacion_Allocators.vcxproj" Id="b1ffbce6-1828-4209-922a-579efee48fae" />
   <Project Path="Memory_Leak/Memory_Leak.vcxproj" Id="4f2468de-c54c-4297-893c-2fb88b29e9cd" />
