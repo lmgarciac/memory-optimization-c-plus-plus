@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{4f2468de-c54c-4297-893c-2fb88b29e9cd}</ProjectGuid>
-    <RootNamespace>MemoryLeak</RootNamespace>
+    <ProjectGuid>{9412f1dc-fff5-4271-8723-34bd89c856ca}</ProjectGuid>
+    <RootNamespace>My5ObjectPoolingPreallocation</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>2 - Memory_Leak</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Memory_Leak.cpp" />
+    <ClCompile Include="Object_Pooling_Preallocation.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

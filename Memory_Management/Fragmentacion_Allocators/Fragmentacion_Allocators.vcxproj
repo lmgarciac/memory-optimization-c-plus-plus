@@ -24,6 +24,7 @@
     <ProjectGuid>{b1ffbce6-1828-4209-922a-579efee48fae}</ProjectGuid>
     <RootNamespace>FragmentacionAllocators</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>3 -Fragmentacion_Allocators</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
