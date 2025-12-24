@@ -126,5 +126,3 @@ Conceptos utilizados comúnmente en:
 - software de alto rendimiento
 
 ---
-
-💡 *La memoria no es solo un recurso lógico: es una estructura física con costos reales.*
